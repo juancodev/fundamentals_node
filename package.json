@@ -1,0 +1,22 @@
+{
+  "name": "fundamentals_node",
+  "description": "This course about nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Fundamentals",
+    "Javascript"
+  ],
+  "author": "juancodev <montillasanchezjuancarlos@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "pm2": "^5.2.2"
+  }
+}
