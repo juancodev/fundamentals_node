@@ -17,8 +17,10 @@
     "nodemon": "^2.0.21"
   },
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "cjs-loader": "^0.1.0",
     "fs-promise": "^2.0.3",
+    "moment": "^2.29.4",
     "pm2": "^5.2.2"
   }
 }
